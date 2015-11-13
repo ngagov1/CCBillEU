@@ -1,2 +1,4 @@
-# CCBillEU
-Cinema test application
+CinemaSeatsReservationSystem
+============================
+
+Cinema Seats Reservation System
